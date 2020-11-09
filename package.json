@@ -1,0 +1,22 @@
+{
+    "name": "theme-deepspace",
+    "displayName": "DeepSpace",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Stephen-Eades",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DeepSpace",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DeepSpace.tmTheme"
+            }
+        ]
+    }
+}
